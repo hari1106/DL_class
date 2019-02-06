@@ -2,5 +2,6 @@
 Notes for deeplearning class
 
 ## This consists of CNN, RNN and other unsupervised algorithms notes
-member
+members
 hariharan
+Hari
